@@ -1,0 +1,22 @@
+.animatedGIF {
+    width: 30%;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+@media (max-width: 1300px) {
+    .animatedGIF {
+        width: 45%;
+    }
+}
+
+@media (max-width: 900px) {
+    .animatedGIF {
+        width: 75%;
+    }
+}
+@media (max-width: 500px) {
+    .animatedGIF {
+        width: 90%;
+    }
+}

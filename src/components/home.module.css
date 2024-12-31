@@ -1,0 +1,34 @@
+.app{
+    height: 100vh;
+    width: 100%;
+    background-color: #ffffee;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botheader{
+    font-weight: 800;
+    margin-top: 5%;
+}
+.header_span{
+    font-weight: 450;
+}
+
+.jokeContainer{
+    margin-top: 1%;
+    width: 90%;
+    text-align: center;
+    justify-content: center;
+}
+
+.setup{
+    font-weight: 505;
+    font-size: 1.5rem;
+}
+.punchline{
+    font-weight: 800;
+}
